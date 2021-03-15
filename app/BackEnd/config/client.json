@@ -1,0 +1,15 @@
+{
+  "Name": "Pekora Discord Music Bot",
+  "token": "",
+  "prefix": "!",
+  "mongoDB": "",
+  "color": "#7122E3",
+  "footer": "",
+  "adminRole": "Administrator",
+  "YOUTUBE_API_KEY": "",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "SPOTIFY_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 50,
+  "STAY_TIME": 10000,
+  "DEFAULT_VOLUME": 100
+}
